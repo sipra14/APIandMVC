@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\siprap\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\siprap\\.nuget\\packages"
+    ]
+  }
+}

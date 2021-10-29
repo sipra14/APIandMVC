@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrudApi", "CrudApi\CrudApi.csproj", "{8B93FEF1-E86F-4D52-B261-6D8C30E2A62A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVC", "MVC\MVC.csproj", "{A635E668-3599-4B69-93D0-EC4D497365F3}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{BE06A476-9F0D-4D9F-9BAA-5983CA93345B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B93FEF1-E86F-4D52-B261-6D8C30E2A62A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B93FEF1-E86F-4D52-B261-6D8C30E2A62A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B93FEF1-E86F-4D52-B261-6D8C30E2A62A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B93FEF1-E86F-4D52-B261-6D8C30E2A62A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A635E668-3599-4B69-93D0-EC4D497365F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A635E668-3599-4B69-93D0-EC4D497365F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A635E668-3599-4B69-93D0-EC4D497365F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A635E668-3599-4B69-93D0-EC4D497365F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE06A476-9F0D-4D9F-9BAA-5983CA93345B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE06A476-9F0D-4D9F-9BAA-5983CA93345B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE06A476-9F0D-4D9F-9BAA-5983CA93345B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE06A476-9F0D-4D9F-9BAA-5983CA93345B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69DA246A-B94C-4C1A-A81F-13228750DE9F}
+	EndGlobalSection
+EndGlobal
